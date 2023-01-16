@@ -1,6 +1,6 @@
 //Criando tela de Login
 function login (nome, email){
-return 'Bem Vindo'
+return nome;
 
 
 }
