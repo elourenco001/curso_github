@@ -4,7 +4,7 @@
 Nesse curso você vai dominar todo **git** e **github** do zero ao _profissional._
 
 **Ultimas Updates**
-- [x] Sites Reponsivos // Aprendendo checklist
+- [x] Sites Reponsivos 
 - [ ] Login com Facebook
 - [ ] Pagina sobre a empresa
 
@@ -62,3 +62,10 @@ Titulo do Projeto
     color:#FF0000;
 }
 ```
+
+Propriedade | Descrição
+------------|------------
+name | Para informar o nome do usuário
+size | Para definir o tamanho do campo
+background | Cor de fundo da área em HEX
+onPress | Função chamada quando clicar no botão
