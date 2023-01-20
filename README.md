@@ -1,5 +1,10 @@
 ![Logo do Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
+[Bem Vundo](#bem-vindo-ao-curso-git-e-github)
+[Modulos](#módulos)
+[Rede Social]()
+[Comandos]
+
 # Bem vindo ao curso Git e Github.
 Nesse curso você vai dominar todo **git** e **github** do zero ao _profissional._
 
@@ -21,7 +26,7 @@ Nesse curso você vai dominar todo **git** e **github** do zero ao _profissional
 3. Trabalhando com Branches.
 4. Usando github de forma profissional.
 
-Rede Social:
+#Rede Social:
 
 [Instagram]()
 
@@ -31,7 +36,7 @@ Rede Social:
 >
 >Segunda área destacada
 
-**Comando para rodar o projeto**
+#Comando para rodar o projeto
 
 ```
 npm start
