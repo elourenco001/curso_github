@@ -9,11 +9,14 @@ Nesse curso você vai dominar todo **git** e **github** do zero ao _profissional
 * Trabalhando com Branches.
 * Usando github de forma profissional.
 
-1 Entendendo o que é Git.
+1 Entendendo o que é Git
     1 O que é Git?
     2 Treinando listas Ordenadas
+    
 2 Aprendendo sobre repositórios.
+
 3 Trabalhando com Branches.
+
 4 Usando github de forma profissional.
 
 Rede Social:
