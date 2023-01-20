@@ -28,32 +28,32 @@ Rede Social:
 
 **Comando para rodar o projeto**
 
-'''
+```
 npm start
-'''
+```
 
 **Exemplo de uso do script**
 
-'''js
+```js
 function showName(name){
     return 'Bem vindo: '+name;
 }
-'''
+```
 
 **Uso do componente HTML**
 
-'''html
+```html
 <h1>
 Titulo do Projeto
     <span>Cruso Git</span>
 </h1>
-'''
+```
 
 **CSS Padrão do Projeto**
 
-'''css
+```css
 .titulo{
     background-color:#FFF;
     color:#FF0000;
 }
-'''
+```
