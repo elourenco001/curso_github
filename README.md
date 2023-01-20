@@ -4,7 +4,7 @@
 Nesse curso você vai dominar todo **git** e **github** do zero ao _profissional._
 
 **Ultimas Updates**
-- [x] Sites Reponsivos
+- [x] Sites Reponsivos // Aprendendo checklist
 - [ ] Login com Facebook
 - [ ] Pagina sobre a empresa
 
