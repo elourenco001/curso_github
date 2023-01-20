@@ -1,4 +1,4 @@
-![Logo do Git](https://w7.pngwing.com/pngs/705/814/png-transparent-github-repository-commit-bitbucket-github-angle-orange-logo.png)
+![Logo do Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
 # Bem vindo ao curso Git e Github.
 Nesse curso você vai dominar todo **git** e **github** do zero ao _profissional._
