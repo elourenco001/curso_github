@@ -23,14 +23,17 @@ Rede Social:
 [Youtube]()
 
 >Este é um blockquote, usando para destacar alguma área.
+>
 >Segunda área destacada
 
 **Comando para rodar o projeto**
+
 '''
 npm start
 '''
 
 **Exemplo de uso do script**
+
 '''js
 function showName(name){
     return 'Bem vindo: '+name;
@@ -38,6 +41,7 @@ function showName(name){
 '''
 
 **Uso do componente HTML**
+
 '''html
 <h1>
 Titulo do Projeto
@@ -46,6 +50,7 @@ Titulo do Projeto
 '''
 
 **CSS Padrão do Projeto**
+
 '''css
 .titulo{
     background-color:#FFF;
