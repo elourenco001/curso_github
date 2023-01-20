@@ -21,3 +21,34 @@ Rede Social:
 [Instagram]()
 
 [Youtube]()
+
+>Este é um blockquote, usando para destacar alguma área.
+>Segunda área destacada
+
+**Comando para rodar o projeto**
+'''
+npm start
+'''
+
+**Exemplo de uso do script**
+'''js
+function showName(name){
+    return 'Bem vindo: '+name;
+}
+'''
+
+**Uso do componente HTML**
+'''html
+<h1>
+Titulo do Projeto
+    <span>Cruso Git</span>
+</h1>
+'''
+
+**CSS Padrão do Projeto**
+'''css
+.titulo{
+    background-color:#FFF;
+    color:#FF0000;
+}
+'''
