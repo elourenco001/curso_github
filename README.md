@@ -26,7 +26,7 @@ Nesse curso você vai dominar todo **git** e **github** do zero ao _profissional
 3. Trabalhando com Branches.
 4. Usando github de forma profissional.
 
-#Rede Social:
+# Rede Social:
 
 [Instagram]()
 
@@ -36,7 +36,7 @@ Nesse curso você vai dominar todo **git** e **github** do zero ao _profissional
 >
 >Segunda área destacada
 
-#Comando para rodar o projeto
+# Comando para rodar o projeto
 
 ```
 npm start
