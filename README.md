@@ -45,7 +45,7 @@ function showName(name){
 ```html
 <h1>
 Titulo do Projeto
-    <span>Cruso Git</span>
+    <span>Curso Git</span>
 </h1>
 ```
 
